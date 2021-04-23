@@ -7,7 +7,7 @@ This repo contains all deliverables for the course - Human Computer Interaction 
 
 
 Team Members:
-Arjun Chengappa
-Meghana K
-Vishnu Charan
+Arjun Chengappa,
+Meghana K,
+Vishnu Charan,
 Tejus N
